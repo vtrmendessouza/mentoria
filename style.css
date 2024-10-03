@@ -1,0 +1,17 @@
+p {
+    color: purple;
+    font-family: "Comic Neue", cursive;
+}
+
+.destacado{
+    color: aqua;
+    font-size: 32px;
+}
+
+.italico{
+    font-style: italic;
+}
+
+#textao{
+    color: red;
+}
